@@ -3,7 +3,7 @@
 The Project allows users to register, make order for pizzas they can pick on the Menu,
 and pay for them using a Paypal account that is only allowed for testing which is delivered by Paypal Sandbox.
 
-Usage and Installation
+### Usage and Installation
 Markup:
 * Installation
 * Install nodejs ( higher than Version 10.0)
