@@ -1,0 +1,37 @@
+@import '~antd/dist/antd.css';
+
+
+.ant-card-meta-title{
+    color: #f80000;
+    font-size: 20px;
+}
+.ant-card-meta-description{
+    color: #f80000;
+    font-size: 25px;
+}
+.tname{
+    color:#f80000;
+    font-size:40px;
+}
+
+/* .services {
+    .row {
+      .col-md-4 {
+        i {
+          font-size: 40px;
+        }
+      }
+    }
+  } */
+/* .col_sec{
+    position: relative;
+    top: 800px;
+}
+.col_ser{
+    position: relative;
+    top: 500px;
+    right: -50px;
+} */
+@media (max-width: 786px){
+
+}
